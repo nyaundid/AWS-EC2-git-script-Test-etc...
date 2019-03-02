@@ -1,2 +1,3 @@
 # AWS-EC2-git-script-Test-etc...
 AWS, EC2, git repository, script file, Test script, w push your local repository to the GitHub
+homework 3
